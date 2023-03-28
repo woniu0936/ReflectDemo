@@ -1,4 +1,4 @@
-package com.example.reflectdemo;
+package com.example.reflect.demo;
 
 import android.content.Context;
 

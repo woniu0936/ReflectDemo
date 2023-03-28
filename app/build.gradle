@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.reflectdemo'
+    namespace 'com.example.reflect.demo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.reflectdemo"
+        applicationId "com.example.reflect.demo"
         minSdk 24
         targetSdk 33
         versionCode 1
