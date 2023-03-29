@@ -4,7 +4,7 @@ import android.util.Log;
 
 public class TestClass {
 
-    public static final String TAG = "MainTag";
+    public static final String TAG = "TestClass";
 
     private static final String address = "西安";
 
